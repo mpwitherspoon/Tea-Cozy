@@ -67,6 +67,7 @@ h4 {
 .Middle_Image_Set img {
   height: 200px;
   width: 300px;
+  padding-bottom: 10px;
 }
 
 .Middle_Image_Set {
@@ -77,4 +78,27 @@ h4 {
 
 .Sub_Middle_Image_Set {
   padding: 5px;
+  margin: 20px;
+}
+
+/* Bottom Page Content */
+
+.Bottom_Page_Content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-locations-background.jpg");
+  height: 500px;
+  width: 1200px;
+  margin: auto;
+}
+
+.Bottom_Blocks {
+  width: 300px;
+  margin-right: 40px;
+  margin-top: 15px;
+}
+
+.Bottom_Page_Content h2 {
+  align-self: flex-start;
 }
