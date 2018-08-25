@@ -73,5 +73,5 @@ h4 {
   display: flex;
   height: 200px;
   width: 300px;
-  flex-direction: row;
+  flex-direction: column;
 }
