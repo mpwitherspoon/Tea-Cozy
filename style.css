@@ -102,3 +102,9 @@ h4 {
 .Bottom_Page_Content h2 {
   align-self: flex-start;
 }
+
+.footer {
+  display: flex;
+  justify-content: flex-start;
+  padding-left: 20px;
+}
