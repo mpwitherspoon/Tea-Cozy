@@ -83,6 +83,11 @@ h4 {
 
 /* Bottom Page Content */
 
+.Locations_Placement {
+  display: flex;
+  align-items: center;
+}
+
 .Bottom_Page_Content {
   display: flex;
   align-items: center;
@@ -97,10 +102,6 @@ h4 {
   width: 300px;
   margin-right: 40px;
   margin-top: 15px;
-}
-
-.Bottom_Page_Content h2 {
-  align-self: flex-start;
 }
 
 .footer {
